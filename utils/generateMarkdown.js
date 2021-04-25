@@ -71,7 +71,7 @@ function generateMarkdown(data) {
   #License
   ![badge](https://img.shields.io/badge/license-${answers.license})
   <br>
-  This application is under licence of ${answers.license}.s
+  This application is under licence of ${answers.license}
 `;
 }
 
