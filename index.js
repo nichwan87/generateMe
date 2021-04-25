@@ -44,7 +44,7 @@ const questions = [ {
 {   
     type: "list",
     message: "Licence choices",
-    name: "licence",
+    name: "license",
     choices: [
         "Apache",
         "Academic",
